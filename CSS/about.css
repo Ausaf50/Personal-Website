@@ -1,0 +1,82 @@
+body{
+  padding: 2%;
+  margin: 2%;
+  background-image: url("../images/b.jpg");
+  background-size: cover;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+header{
+  ackground-color: #EA6FFF;
+  
+  padding: 2%;
+}
+
+h1{
+  color: #3C0D22;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 45px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95, 0 0 75px #ff2d95;
+    letter-spacing: 3px;
+}
+
+nav{
+  text-align: center;
+}
+
+nav a{
+  text-align: center;
+  display:inline-block;
+  background-color: rgba(223,255,254,0.4);
+  color: #0A0A0A;
+  font-size: 20px;
+  margin: 2%;
+  padding: 2%;
+  width: 15%;
+  text-decoration: none;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+
+
+div{
+  display: inline-block;
+  width: 40%;
+  margin: 2%;
+  padding: 2%;
+  /*color: #FFFFFF;*/
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95, 0 0 75px #ff2d95;
+    letter-spacing: 3px;
+}
+
+#1{
+  text-align: center;
+}
+
+
+h2{
+  color: #499E2C;
+  text-transform: uppercase;
+}
+
+
+
+.icons{
+  display: block;
+  width: 50px;
+  height: 50px;
+  border: #000000;
+  margin: 0 auto;
+
+
+}
+
+footer{
+      color: #000000;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95, 0 0 75px #ff2d95;
+    letter-spacing: 3px;  
+}
